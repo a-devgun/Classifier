@@ -1,0 +1,46 @@
+ highest (log) ratio of positive to negative weight
+
+
+
+
+
+
+shrek 3.99043 
+
+mulan 3.55965
+
+gattaca 3.50700
+
+flynt 3.34607 
+
+guido 3.33007
+
+ordell 3.33007
+
+leila 3.29728
+
+sweetback 3.22829
+
+taran 3.19192
+
+homer 3.15418
+
+mallory 3.11496 
+
+donkey 3.03158
+
+argento 2.98713 
+
+rounders 2.98713 
+
+truman's 2.94061
+
+lebowski 2.91651
+
+fei-hong 2.89182
+
+giles 2.89182
+
+farquaad 2.84052 
+
+mulan's 2.78646 

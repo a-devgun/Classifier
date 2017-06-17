@@ -1,0 +1,46 @@
+
+highest (log) ratio of negative to positive weight 
+
+
+
+
+
+&nbsp 4.18144
+
+jolie 3.53789
+
+seagal 3.50510
+
+brenner 3.23940
+
+1900 3.19495 
+
+pokemon 3.14843
+
+8mm 3.12433
+
+silverman 3.04834
+
+bruckheimer 3.04834
+
+memphis 2.99428
+
+supergirl 2.99428
+
+babysitter 2.99428
+
+atrocious 2.99428 
+
+psychlo 2.99428
+
+psychlos 2.99428 
+
+tango 2.99428
+
+raider 2.93712
+
+mandingo 2.93712 
+
+tomb 2.93712
+
+bilko 2.93712
